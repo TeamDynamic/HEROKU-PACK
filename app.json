@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/HACKERBOTTELEGRAM/HACKERBOTOP/",
-  "website": "https://github.com/HACKERBOTTELEGRAM/HACKERBOTOP/",
+  "repository": "https://github.com/TeamDynamic/Dynamic-Userbot/",
+  "website": "https://github.com/TeamDynamic/Dynamic-Userbot/",
   "success_url": "https://t.me/HACKEROPDYNAMIC",
   "env": {
     "ENV": {
@@ -28,19 +28,9 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @lucifeermorningstar.",
+      "description": "Leave As It Is.",
       "value": "DYNAMIC USER",
       "required": false
-    },
-    "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link use .awake to show.",
-      "value": "https://telegra.ph/file/45b6d89879c66d1ee1270.jpg",
-      "required": false
-    },
-    "PMPERMIT_PIC": {
-      "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/45b6d89879c66d1ee1270.jpg",
-      "required": true
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
@@ -53,16 +43,6 @@
     },
     "REM_BG_API_KEY": {
       "description": "Required for Removing image background functionality. Get from https://www.remove.bg/",
-      "value": "",
-      "required": false
-    },
-    "OCR_SPACE_API_KEY": {
-      "description": "Register an account on ocr.space to get this value(API key)....",
-      "value": "",
-      "required": false
-    },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
       "value": "",
       "required": false
     },
@@ -82,10 +62,6 @@
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": "99999"
     },
-    "PM_LOGGR_BOT_API_ID": {
-       "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "99999"
-    }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com/@amanpandey7647/Dynamic-USERBOT-String-Session#main.py ",
       "value": ""
