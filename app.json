@@ -62,6 +62,10 @@
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": "99999"
     },
+    "PLUGIN_CHANNEL": {
+      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com/@amanpandey7647/Dynamic-USERBOT-String-Session#main.py ",
       "value": ""
